@@ -1,5 +1,4 @@
-import React from "react";
-import "./App.css";
+import React, { useState } from "react";
 import { AddUser } from "./components/Users/AddUser";
 
 function App() {
